@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/v-0.0.3-black"/>
+    <img src="https://img.shields.io/badge/v-0.0.4-black"/>
     <img src="https://img.shields.io/badge/🔥-@minejsx-black"/>
     <br>
     <img src="https://img.shields.io/badge/coverage-98.98%25-brightgreen" alt="Test Coverage" />
@@ -122,7 +122,7 @@
 
             const list = For({
                 each: items(),
-                children: (item, index) => jsx('li', { 
+                children: (item, index) => jsx('li', {
                     children: `${index}: ${item}`
                 })
             })
@@ -802,30 +802,7 @@
 
             render(<Counter />, '#app')
             ```
-
-- ## Testing 🔥
-
-    The runtime includes comprehensive test coverage using Bun test framework.
-
-    - ### Run Tests
-
-        ```bash
-        bun test
-        ```
-
-    - ### Test Coverage
-
-        ```bash
-        bun test --coverage
-        ```
-
-    - ### Test Categories
-
-        - **JSX Runtime Tests**: Element creation, attributes, events
-        - **Component Tests**: Functional components, state management
-        - **Integration Tests**: Complete apps with signals and computed
-        - **Performance Tests**: Creation and update performance
-        - **Advanced Tests**: Refs, styles, boolean attributes, nested children
+    <br>
 
 <!-- ╚═════════════════════════════════════════════════════════════════╝ -->
 
