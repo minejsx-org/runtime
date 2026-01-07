@@ -8,6 +8,15 @@ interface JSXProps {
     ref?: Signal<HTMLElement | null>;
     [key: string]: any;
 }
+declare global {
+    namespace JSX {
+        type Element = JSXElement;
+        type IntrinsicElements = Record<string, any>;
+        interface ElementChildrenAttribute {
+            children: object;
+        }
+    }
+}
 
 /**
  * Creates a DOM element from JSX

@@ -1,6 +1,6 @@
 {
 	"name"                             : "@minejsx/runtime",
-	"version"                          : "0.0.4",
+	"version"                          : "0.0.5",
 	"description"                      : "Lightweight JSX runtime with fine-grained reactivity.",
 	"keywords"                         : ["mine", "jsx", "runtime"],
 	"license"                          : "MIT",
