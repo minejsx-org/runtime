@@ -1,0 +1,23 @@
+{
+	"type"              : "lib",
+	"template"          : "clean",
+	"pm"                : "bun",
+	"repo": {
+		"org"           : "minejsx",
+		"name"          : "runtime",
+		"version"       : "0.0.1",
+		"desc"          : "desc",
+		"kw"            : ["mine", "jsx", "runtime"],
+		"license"       : "MIT",
+		"issues"        : "https://github.com/minejsx/runtime/issues",
+		"homepage"      : "https://github.com/minejsx/runtime#readme",
+		"git_url"       : "git+https://github.com/minejsx/runtime.git"
+	},
+	"author": {
+		"id"            : "maysara-elshewehy",
+		"name"          : "Maysara",
+		"email"         : "maysara.elshewehy@gmail.com",
+		"url"           : "https://github.com/maysara-elshewehy"
+	},
+	"createdAt"         : "2026-01-06T14:19:23.030Z"
+}
