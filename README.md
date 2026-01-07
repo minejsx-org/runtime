@@ -8,12 +8,12 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/v-0.0.1-black"/>
+    <img src="https://img.shields.io/badge/v-0.0.2-black"/>
     <img src="https://img.shields.io/badge/🔥-@minejsx-black"/>
     <br>
     <img src="https://img.shields.io/badge/coverage-98.98%25-brightgreen" alt="Test Coverage" />
-    <img src="https://img.shields.io/github/issues/minejs-org/runtime?style=flat" alt="Github Repo Issues" />
-    <img src="https://img.shields.io/github/stars/minejs-org/runtime?style=social" alt="GitHub Repo stars" />
+    <img src="https://img.shields.io/github/issues/minejsx-org/runtime?style=flat" alt="Github Repo Issues" />
+    <img src="https://img.shields.io/github/stars/minejsx-org/runtime?style=social" alt="GitHub Repo stars" />
 </div>
 <br>
 

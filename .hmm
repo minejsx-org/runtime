@@ -5,8 +5,8 @@
 	"repo": {
 		"org"           : "minejsx",
 		"name"          : "runtime",
-		"version"       : "0.0.1",
-		"desc"          : "desc",
+		"version"       : "0.0.2",
+		"desc"          : "Lightweight JSX runtime with fine-grained reactivity.",
 		"kw"            : ["mine", "jsx", "runtime"],
 		"license"       : "MIT",
 		"issues"        : "https://github.com/minejsx/runtime/issues",
